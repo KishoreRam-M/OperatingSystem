@@ -1,8 +1,3 @@
----
-name: "Ultimate OS Mastery for CSE Students"
-description: "Comprehensive OS & Linux guide: theory, practice, projects, interviews."
----
-
 # 🧠 Mastering Operating Systems – Ultimate CS Engineering Guide
 
 Welcome to the **ultimate, complete guide to mastering Operating Systems (OS)** — crafted for **Computer Science Engineering students**, GATE aspirants, and system enthusiasts aiming for top-tier understanding and real-world skills.
